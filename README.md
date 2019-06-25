@@ -55,7 +55,7 @@ Here's a non-comprehensive list of things you should be doing:
 ##### Course suggestion
 Learning to pipette DNA or grow fungi is one thing. Learning how to actually turn data into knowledge is another.
 Especially for those of you wanting to go to grad school, I'd strongly recommend learning about data analysis.
-I teach a course for beginners --- **BIOL 3100 - Introduction to Data Analysis for Biologists** ---
+I teach a course for beginners --- [**BIOL 3100 - Introduction to Data Analysis for Biologists**](https://github.com/gzahn/Data_Course) ---
 Yes, it's self-serving that I convince you to take it, and no, you don't have to. But it's *very* useful.
 
 ##### Open science
