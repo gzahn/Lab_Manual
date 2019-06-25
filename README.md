@@ -1,6 +1,8 @@
 # Lab Manual
 Lab manual for Zahn Lab at UVU
+
 Lab - SB047
+
 Office - SB243c
 
 ## 01 Lab Mission
@@ -10,13 +12,13 @@ ___
 
 ## 02 Roles and Expectations
 ##### **Dr. Zahn's Role:**	
-###### I'm responsible for everything that goes on in our lab... my goal is to have a lab dedicated not only to uncovering new information about the world, but also to helping you succeed and achieve your academic and professional goals. Your time and effort are valuable to me and I will do my utmost to help you in your work, take your best interests to heart, and direct your efforts in ways that benefit you first and foremost. I will help you learn how research works, how to ask a question, how to get funding, how to collaborate, and how to share your results. I will invest in a friendly and pleasant working environment, with a healthy work/life balance.
-__
+**I'm responsible for everything that goes on in our lab... my goal is to have a lab dedicated not only to uncovering new information about the world, but also to helping you succeed and achieve your academic and professional goals. Your time and effort are valuable to me and I will do my utmost to help you in your work, take your best interests to heart, and direct your efforts in ways that benefit you first and foremost. I will help you learn how research works, how to ask a question, how to get funding, how to collaborate, and how to share your results. I will invest in a friendly and pleasant working environment, with a healthy work/life balance.**
+___
 I'm here to help, but I'm also here to do science, so...
 
 ##### **Your role:**	
-###### You are responsible for everything *you* do in the lab. I expect you to be mature, kind to everyone, and work hard. Treat others how you would want to be treated. Enjoy the work...biology is awesome!
-_
+**You are responsible for everything *you* do in the lab. I expect you to be mature, kind to everyone, and work hard. Treat others how you would want to be treated. Enjoy the work...biology is awesome!**
+___
 Here's a non-comprehensive list of things you should be doing:
 + Come to lab meetings prepared.
 + Keep the lab clean. If something is dirty, clean it up!
