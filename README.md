@@ -8,14 +8,23 @@ ___
 ## Contents
 
 01 Lab Mission
+
 02 Roles and Expectations
+
 03 Communication
+
 04 Logistics
+
 05 What to Expect: A Research Project from Start to Finish
+
 06 Funding
+
 07 Presentations and Posters
+
 08 Publications
+
 09 Reading List
+
 10 Protocols
 
 ___
