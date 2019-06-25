@@ -7,7 +7,7 @@ Office - SB243c
 ___
 ## Contents
 
-01 Lab Mission
+[01 Lab Mission](#01)
 
 02 Roles and Expectations
 
