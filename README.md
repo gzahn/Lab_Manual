@@ -4,6 +4,21 @@ Lab manual for Zahn Lab at UVU
 Lab - SB047
 
 Office - SB243c
+___
+## Contents
+
+01 Lab Mission
+02 Roles and Expectations
+03 Communication
+04 Logistics
+05 What to Expect: A Research Project from Start to Finish
+06 Funding
+07 Presentations and Posters
+08 Publications
+09 Reading List
+10 Protocols
+
+___
 
 ## 01 Lab Mission
 Our mission is to learn new things about the world, to help students develop as scientists and professionals to meet their educational and career goals, to be friendly, and to have fun. Most of the research that takes place in this lab is centered around trying to uncover what the heck microbes are doing, and how we can harness them to useful ends. Experiments can include field studies, manipulated experiments, observational surveys, and/or applied trials. All of this work involves bioinformatics and data analysis. 
@@ -76,7 +91,74 @@ You have a few options when you are part of this lab group:
 
 ___
 
-## 05 Funding
+## 05 What to Expect: A Research Project from Start to Finish
+### Expect this whole process to take at least a year
+
+#### 1. Your big idea
++ So you have some biological interests. If you're here in the Zahn Lab, hopefully those interests are in alignment with the sorts of things we do here.
++ You'll probably start in the lab by working with a senior research student on their project. This gives you a chance to get a feel for how things work and get start thinking about what sort of project you'd like to start on your own.
++ I'll help you develop an idea, but it should be something you really care about. If you actually want to know the answer to a question, research won't feel like work!
+
+#### 2. Background reading
++ Now that we've got an idea you want to work on, it's time to READ!
++ I'll help point you to relevant articles, but that's just the starting point. You'll need to start "following the citation trail" of those papers and finding even more papers that relate to your question.
++ The main goal at this point is to make sure your question hasn't been answered already by someone else.
++ You also want to have a good understanding of your topic... enough to know what we do and, especially, what we **don't** know about your topic.
++ Keep track of those papers using Zotero because you'll be citing them when it's time to write your manuscript.
+
+#### 3. Experimental design
++ Okay, you know a fair amount about your topic and you have identified a gap in human knowledge. It's time to design a way to fill that gap.
++ This is an area of science that calls for creativity. There are some rules we have to follow, but there is a lot of room to tackle your question in unique ways.
++ I'll work with you to develop a plan of attack that is statistically sound, feasible, and set up to properly adress your question.
++ There's a lot that goes into planning a research project. 
+    + What supplies will you need?
+    + How much will they cost? Do you need wages covered? Travel?
+    + How many samples will you need to get good statistical power? What are your controls?
+    + Do we need to get collection permits or IACUC/IRB approval?
+    + What's your timeline look like? How many hours a week can you spend on your project?
++ Having some background in statistics will be very helpful here.
+
+#### 4. Getting funding
++ Once your project plan is ready to go, we can apply for funding.
++ We will identify a target funding program (check those deadlines!) and write the funding request.
++ Then you will submit your application, get all the signatures, wait a month while stressing out, and finally get your award (think positive!)
++ Once the award is issued, we can order supplies and get to work on the actual experiment.
++ A lot of the hard work has been done already at this point. In the mean time, you'll be reading more papers. 
+
+#### 5. Collecting data
++ The nature of this step really depends on your project.
++ You could be distributing and collecting dental swabs from dogs, monitoring soil microcosms in incubators, collecting leaves from mountains all over the state...
++ But at some point, you'll probably be dealing with DNA extractions and amplifications. The details of those methods are in the protocols repository <https://github.com/gzahn/Protocols>.
++ This part of the work gets pretty technical and requires a lot of concentration, hard work, and careful deliberation. You will get training in these skills.
++ **EVERYTHING** that you do while collecting data gets written in the lab notebook and recorded in at least two separate digital locations. This record will not only be your raw data, but the methods section of your manuscript.
+
+#### 6. Analyzing data
++ Here's where you'll be out of luck if you don't have a basic understanding of the R computational language.
++ We need to turn all those data into pretty figures and statistical tests and use it to answer your question.
++ This can take a *lot* of time as we explore your data.
+
+#### 7. Writing a paper
++ Okay, it's been a long time since you started your project. Probably more than a year, in all honesty!
++ It's time to write. I'll be setting deadlines for your writing tasks. I expect you to keep to those deadlines.
++ I like to write papers in the following order, but it's not set in stone:
+    +   Methods
+    +   Results
+    +   Intro
+    +   Discussion
+    +   Abstract
++ We will write to a specific journal format. The journal we choose for your manuscript will depend on a combination of the strength of your results, the topic, and your career goals.
++ Now it's time to submit your hard work for peer review.  This process is very, very long.
+
+#### 8. dealing with failure
++ You will fail sometimes. You will drop samples. You will forget an important step in the DNA extraction protocol.
++ You will forget to check on your incubations. You will run out of reagents.
++ Even if everything goes really well and you try your best and are very careful and deliberate, you could **_still_** fail!
++ Sometimes your data just tells you something you didn't want to hear.
++ That's science. It's fine. Do your best, be careful, and follow the evidence wherever it leads.
+
+___
+
+## 06 Funding
 **Our lab runs on hard work, but also on money.** The equipment and materials we need for our projects are very expensive and so we need to be vigilant about applying for funding opportunities when they arise. Needless to say, *having a grant funded as an undergraduate student looks very good on your CV*. I expect you to apply for grants, and will do everything I can to make sure you get them.
 
 Here are some internal UVU funding opportunities you can apply for- <https://www.uvu.edu/undergrad-research/student-research/apply-for-funding/>
@@ -86,7 +168,7 @@ Come talk to me and let's apply! If you have an idea for a different (external) 
 ___
 
 
-## 06 Presentations and Posters
+## 07 Presentations and Posters
 What's the point of doing science if you're not going to share your exciting results with others!?
 I expect that you will attend at least one conference to share your work.  There are plenty of local, national, or international conferences to select from. If you want to travel to a conference, that means we need to find funding. Presntations look good in your CV, and if you are a fan of paperwork, they can mean a free or very cheap trip to somewhere cool.
 
@@ -102,7 +184,7 @@ I expect that you will attend at least one conference to share your work.  There
 You usually have a choice, depending on the abstract you submit and the conference to which you submit it. Talks are typically 15 minutes of hell. Posters are usually 2 hours of boredom. I'll work with you leading up to any conference to make sure you know what you're doing. You'll have feedback on your talk/poster, a chance to practice it in lab meetings, and help with designing slides/posters. I'm of the opinion that "less is more" when it comes to this stuff. We will get to that when the time comes.
 
 
-## 07 Publications
+## 08 Publications
 My goal for each student in my lab is to get authorship on a publication before they leave. This is easier said than done, but if you are willing to work and be persistent, it will happen for you. Authorship is not guaranteed, however. To be an author, you need to substantially contribute to a manuscript. That can take several forms:
 1. Collecting the bulk of samples or data for a project
 2. Performing data analysis and contributing toward manuscript figures
@@ -110,7 +192,7 @@ My goal for each student in my lab is to get authorship on a publication before 
 
 Each student ideally will develop their own project once they get used to lab procedures and have done the background reading in their area (I'll help you find the papers but I can't read them for you). You have initial claim to 1st authorship on any papers from your personal project. Of course, if you flake out and somebody else takes up the slack, it becomes their paper.
 
-## 08 Reading List
+## 09 Reading List
 This depends on your topic, obviously. But I'll include a partial list of some papers below that should give you a feel for the sorts of research questions and methods you'll find in our lab. Wait! holy crap, that's a lot of reading! Yeah, remember you signed up for this. Get used to it. First, read all the one's titled "Ten simple rules ..." and then move on to the rest.
 
 We will use Zotero to manage papers and citations <https://www.zotero.org/>. Look it up and learn how to use it.
@@ -138,5 +220,5 @@ We will use Zotero to manage papers and citations <https://www.zotero.org/>. Loo
 + Yan, N., Marschner, P., Cao, W., Zuo, C., & Qin, W. (2015). Influence of salinity and water content on soil microorganisms. International Soil and Water Conservation Research, 3(4), 316–323.
 + Zahn, G., & Amend, A. S. (2017). Foliar microbiome transplants confer disease resistance in a critically-endangered plant. PeerJ, 5, e4020. https://doi.org/10.7717/peerj.4020
 
-## 09 Protocols
+## 10 Protocols
 #### See the separate protocols repository for these. <https://github.com/gzahn/Protocols>
