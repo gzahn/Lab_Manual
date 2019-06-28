@@ -86,11 +86,12 @@ The doors on the right are shared with other lab groups and have lots of equipme
 + The main incubators in our lab (back left) are for fungal and bacterial cultures. The top incubator is divided into four shelves. Rough and dirty cultures on the bottom, going up to pure cultures ready for DNA extraction on the top. As cultures get cleaned up and isolated, they move up the shelves.
 + The sterile hood is really annoying sometimes, what with the beeping an such, but it's a good friend to us. Keep it clean! After every use, wipe it down with alcohol and turn on the UV light. If you want to use the sterilizer, be sure that both it and the fume hood electric power buttons are on. Don't leave the sterilizer on for more than 3 hours at a time.
 + If there is a bunch of dirty glassware in the sink, I'm going to lose my shit. Clean up.
++ The -80 freezer is out through the back door of the lab. Sometimes students will be having class in that room. That's okay, just don't be distracting to them. The freezer itself is LOCKED. **It needs to stay locked.** If you leave it open on accident it can ruin everybody's samples and reagents. If you do this, it's probably best for you to run and hide forever!
 + Any live cultures or pipette tips with biological material on them need to go in the biohazard trash bin next to the lab, rather than the regular trash.
 + Wear gloves and sterilize them with alcohol.
 + Follow the lab safety rules you learned in training.
-+ Label your tubes, for the love of all that is holy!
-+ Use your lab notebook (initial and date). No matter what. It goes in the notebook, or it didn't happen.
++ Label your tubes and plates, for the love of all that is holy!
++ Use your lab notebook (initial and date). No matter what. It goes in the notebook... or it didn't happen.
 
 ##### Paychecks vs. course credit
 You have a few options when you are part of this lab group:
@@ -104,8 +105,8 @@ ___
 ### Expect this whole process to take at least a year
 
 #### 1. Your big idea
-+ So you have some biological interests. If you're here in the Zahn Lab, hopefully those interests are in alignment with the sorts of things we do here.
-+ You'll probably start in the lab by working with a senior research student on their project. This gives you a chance to get a feel for how things work and get start thinking about what sort of project you'd like to start on your own.
++ So you have some biological interests. If you're here in the Zahn Lab, hopefully those interests are in alignment with the sorts of things we do.
++ You'll probably start in the lab by working with a senior research student on their project, or on one of mine. This gives you a chance to get a feel for how things work and get start thinking about what sort of project you'd like to start on your own.
 + I'll help you develop an idea, but it should be something you really care about. If you actually want to know the answer to a question, research won't feel like work!
 
 #### 2. Background reading
@@ -139,7 +140,7 @@ ___
 + You could be distributing and collecting dental swabs from dogs, monitoring soil microcosms in incubators, collecting leaves from mountains all over the state...
 + But at some point, you'll probably be dealing with DNA extractions and amplifications. The details of those methods are in the protocols repository <https://github.com/gzahn/Protocols>.
 + This part of the work gets pretty technical and requires a lot of concentration, hard work, and careful deliberation. You will get training in these skills.
-+ **EVERYTHING** that you do while collecting data gets written in the lab notebook and recorded in at least two separate digital locations. This record will not only be your raw data, but the methods section of your manuscript.
++ **EVERYTHING** that you do while collecting data gets written in the lab notebook and recorded in *at least two* separate digital locations. This record will not only be your raw data, but the methods section of your manuscript.
 
 #### 6. Analyzing data
 + Here's where you'll be out of luck if you don't have a basic understanding of the R computational language.
@@ -174,7 +175,7 @@ Here are some internal UVU funding opportunities you can apply for- <https://www
 Most of these can be used for equipment and/or wages for you. You'll have to strike a balance though. If you write one for wages but no equipment, you can't exactly do much. Better go ahead and apply to several so you can get both.
 Come talk to me and let's apply! If you have an idea for a different (external) grant and want to work together on it, that sounds awesome. Let's do it.
 
-Here's an Excel-compatible yearly calendar showing approximate application dates so you can plan out your applications:
+Here's an Excel-compatible yearly calendar showing approximate due dates at UVU and some conferences so you can plan out your applications:
 <https://github.com/gzahn/Protocols/raw/master/UVU_Student_Grants_Timeline.ods>
 
 ___
