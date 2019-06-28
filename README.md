@@ -11,7 +11,7 @@ ___
 
 [02 Roles and Expectations](#02-Roles-and_Expectations)
 
-[03 Communication](#03-Communications)
+[03 Communication](#03-Communication)
 
 [04 Logistics](#04-Logistics)
 
