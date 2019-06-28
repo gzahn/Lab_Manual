@@ -78,7 +78,7 @@ ___
 I try to be available to you whenever I'm around in there. But sometimes my job is to sit quietly and read and write. This is how we get funding and get papers published. Send me a Slack note if you want to stop by. I usually answer those within a few minutes.
 
 ##### Our lab is SB047 
-You will need to complete Lab Safety Training in order to have keycard access to our lab. (email Craig Moore <craig.moore@uvu.edu> to set up training) 
+You will need to complete Lab Safety Training in order to have keycard access to our lab. (email Craig Moore craig.moore AT uvu DOT edu to set up training) 
 The lab area is shared with other groups. When you walk in, the room on the immediate left (with our poster on it) is our private space. The next door on the left belongs to Dr. G's lab group.
 The doors on the right are shared with other lab groups and have lots of equipment you can use. You know how I need you to keep our lab spotlessly clean? Well that goes double for shared spaces! Be a good citizen. 
 + There is a key box in the main lab area. I'll give you the code to that. The key inside will open all the doors. Don't use it to open Dr. G's private lab space door.
