@@ -1,5 +1,5 @@
-# Lab Manual
-Lab manual for Zahn Lab at UVU
+# Lab Handbook
+Lab handbook for the Zahn Lab at Utah Valley University
 
 Lab - SB047
 
@@ -173,6 +173,9 @@ ___
 Here are some internal UVU funding opportunities you can apply for- <https://www.uvu.edu/undergrad-research/student-research/apply-for-funding/>
 Most of these can be used for equipment and/or wages for you. You'll have to strike a balance though. If you write one for wages but no equipment, you can't exactly do much. Better go ahead and apply to several so you can get both.
 Come talk to me and let's apply! If you have an idea for a different (external) grant and want to work together on it, that sounds awesome. Let's do it.
+
+Here's an Excel-compatible yearly calendar showing approximate application dates so you can plan out your applications:
+<https://github.com/gzahn/Protocols/raw/master/UVU_Student_Grants_Timeline.ods>
 
 ___
 
