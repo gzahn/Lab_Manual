@@ -9,7 +9,7 @@ ___
 
 [01 Lab Mission](#01-Lab-Mission)
 
-[02 Roles and Expectations](#02-Roles-and_Expectations)
+[02 Roles and Expectations](#02-Roles-and-Expectations)
 
 [03 Communication](#03-Communication)
 
