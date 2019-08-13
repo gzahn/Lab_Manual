@@ -49,8 +49,16 @@ Here's a non-comprehensive list of things you should be doing:
 + If you have a lab task, make sure to do it in a timely and diligent manner. 
 + Apply for all available fellowships and grants. Take the initiative to find new ones. 
 + Stay organized. Plan your experiments so you don't just wander around, keep track of everything in a lab notebook, try to be aware of your whole project.
-+ Don't use supplies from other lab groups without permission. You need something? I'll find funding and we will buy it.
 + It's a micro lab space. It seriously needs to be kept clean. Wipe surfaces with alcohol. All the time. Be crazy clean or all our work will suffer.
+
+And here's a non-comprehensive list of things can can get you asked to leave the team:
++ Regularly missing lab meetings
++ Repeatedly leaving messes in the lab
++ Leaving the -80 freezer door unlocked and open
++ Harassment/bullying of other team members
++ Trying to hide a mistake/accident/spill/error instead of informing me or fixing it
++ Using supplies from other lab groups without their permission. You need something? I'll find funding and we will buy it.
+
  
 ##### Course suggestion
 Learning to pipette DNA or grow fungi is one thing. Learning how to actually turn data into knowledge is another.
