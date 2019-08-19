@@ -171,7 +171,7 @@ ___
 + You will fail sometimes. You will drop samples. You will forget an important step in the DNA extraction protocol.
 + You will forget to check on your incubations. You will run out of reagents.
 + Even if everything goes really well and you try your best and are very careful and deliberate, you could **_still_** fail!
-+ Sometimes your data just tells you something you didn't want to hear.
++ Sometimes your data just tell you something you didn't want to hear.
 + That's science. It's fine. Do your best, be careful, and follow the evidence wherever it leads.
 
 ___
