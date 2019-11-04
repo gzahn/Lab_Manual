@@ -254,6 +254,7 @@ ___
 ## 11 Lab Space Overview
 
 #### SB047a - ZahnLab Space
+
 ![Upper_Cabinet](./upper_cabinet.png)
 ![Left_Cabinet](./left_cabinet.png)
 ![Right_Cabinet](./right_cabinet.png)
@@ -262,8 +263,13 @@ ___
 ___
 
 #### Shared spaces
+
 ![047b_backleft](./047b_backleft.png)
+
 ![047b_left](./047b_left.png)
+
 ![047b_right](./047b_right.png)
+
 ![047d_left](./047d_left.png)
+
 ![047d_right](./047d_right.png)
