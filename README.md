@@ -204,6 +204,7 @@ I expect that you will attend at least one conference to share your work.  There
 ##### Talks vs. posters 
 You usually have a choice, depending on the abstract you submit and the conference to which you submit it. Talks are typically 15 minutes of hell. Posters are usually 2 hours of boredom. I'll work with you leading up to any conference to make sure you know what you're doing. You'll have feedback on your talk/poster, a chance to practice it in lab meetings, and help with designing slides/posters. I'm of the opinion that "less is more" when it comes to this stuff. We will get to that when the time comes.
 
+___
 
 ## 08 Publications
 My goal for each student in my lab is to get authorship on a publication before they leave. This is easier said than done, but if you are willing to work and be persistent, it will happen for you. Authorship is not guaranteed, however. To be an author, you need to substantially contribute to a manuscript. That can take several forms:
@@ -212,6 +213,8 @@ My goal for each student in my lab is to get authorship on a publication before 
 3. Writing and revising drafts of a manuscript
 
 Each student ideally will develop their own project once they get used to lab procedures and have done the background reading in their area (I'll help you find the papers but I can't read them for you). You have initial claim to 1st authorship on any papers from your personal project. Of course, if you flake out and somebody else takes up the slack, it becomes their paper.
+
+___
 
 ## 09 Reading List
 This depends on your topic, obviously. But I'll include a partial list of some papers below that should give you a feel for the sorts of research questions and methods you'll find in our lab. Wait! holy crap, that's a lot of reading! Yeah, remember you signed up for this. Get used to it. First, read all the one's titled "Ten simple rules ..." and then move on to the rest.
@@ -243,3 +246,14 @@ We will use Zotero to manage papers and citations <https://www.zotero.org/>. Loo
 
 ## 10 Protocols
 #### See the separate protocols repository for these. <https://github.com/gzahn/Protocols>
+___
+
+\newpage
+
+## 11 Lab Overview
+
+
+![Upper_Cabinet](./upper_cabinet.png)
+![Left_Cabinet](./left_cabinet.png)
+![Right_Cabinet](./right_cabinet.png)
+![Sterile_Hood](./hood.png)
