@@ -27,6 +27,8 @@ ___
 
 [10 Protocols](#10-Protocols)
 
+[11 Lab Overview](#11-Lab-Overview)
+
 ___
 
 ## 01 Lab Mission
@@ -246,9 +248,8 @@ We will use Zotero to manage papers and citations <https://www.zotero.org/>. Loo
 
 ## 10 Protocols
 #### See the separate protocols repository for these. <https://github.com/gzahn/Protocols>
-___
 
-\newpage
+___
 
 ## 11 Lab Overview
 
