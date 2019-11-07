@@ -253,6 +253,8 @@ ___
 
 ## 11 Lab Space Overview
 
+#### Here's a spreadsheet with a mostly current inventory, including item location: [Inventory](https://docs.google.com/spreadsheets/d/1MZ-sNBHNRQUzkc2HsyDz_IvRBVpXpmF7n3T1lO2AapU/edit?usp=sharing)
+
 #### SB047a - ZahnLab Space
 
 ![Upper_Cabinet](./upper_cabinet.png)
