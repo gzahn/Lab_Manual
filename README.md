@@ -274,4 +274,4 @@ ___
 
 ![047d_left](./047d_left.png)
 
-![047b_right](./047d_right.png)
+![047b_right](./047b_right.png)
