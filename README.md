@@ -3,7 +3,7 @@ Lab handbook for the Zahn Lab at Utah Valley University
 
 Lab - SB047
 
-Office - SB243c
+Office - SB242q
 ___
 ## Contents
 
