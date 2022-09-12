@@ -3,7 +3,7 @@ Lab handbook for the Zahn Lab at Utah Valley University
 
 Lab - SB047
 
-Office - SB242q
+Office - SB242t
 ___
 ## Contents
 
@@ -78,13 +78,13 @@ ___
 
 We will strive to have regular lab meetings. Sometimes these will be to practice a presentation. Sometimes, they will be to discuss methods or a journal article. You need to come to these regularly to keep me updated on your project's progress. If you have an assignment for lab meeting (e.g., a paper to read), come prepared.
 
-All of our electronic communication is done on various Slack channels. This helps keep important announcements, etc. all in one place. If you want to share a gif of a cat riding a turtle, that is most excellent, but keep it to the *#random* channel and off of the main *#mycology* channel or your project-specific channels. I love it when cats ride turtles, and I love cool photos of mushrooms, but if I have to scroll up for 3 minutes to find the article we need to read for lab meeting, I'm gonna lose my shit.
+All of our electronic communication is done on various Teams channels. 
 
 ___
 
 ## 04 Logistics
 
-##### My office is SB243c
+##### My office is SB242t
 I try to be available to you whenever I'm around in there. But sometimes my job is to sit quietly and read and write. This is how we get funding and get papers published. Send me a Slack note if you want to stop by. I usually answer those within a few minutes.
 
 ##### Our lab is SB047 
